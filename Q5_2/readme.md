@@ -1,1 +1,1 @@
-![](./Q5_2.jpg=250x)
+<img src="./Q5_2.jpg" alt="" width="400">  
